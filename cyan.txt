@@ -1,0 +1,8 @@
+# Created by Octave 9.2.0, Tue Aug 27 15:40:48 2024 GMT <unknown@Delphi>
+# name: cyan
+# type: matrix
+# rows: 1
+# columns: 3
+ 0.050000000000000003 0.60999999999999999 0.62
+
+
